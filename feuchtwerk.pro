@@ -1,4 +1,4 @@
-update=Fr 03 Jun 2016 21:59:52 CEST
+update=Di 14 Jun 2016 20:10:13 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,13 @@ LibName31=/home/hd/kicad/lib/stm32f042k6tx
 LibName32=/home/hd/kicad/lib/hdc1080
 LibName33=/home/hd/kicad/lib/can_transceivers
 LibName34=/home/hd/kicad/lib/con_swd
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
